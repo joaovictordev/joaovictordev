@@ -1,4 +1,4 @@
-![cover](https://res.cloudinary.com/dqqrsraas/image/upload/v1611933831/Blue_and_White_Abstract_Technology_LinkedIn_Banner_2_j4e7we.png)
+![cover](https://res.cloudinary.com/dqqrsraas/image/upload/v1611935148/Blue_and_White_Abstract_Technology_LinkedIn_Banner_3_qruaov.png)
 <p align="center">:mailbox: joaovictorrdesouza0@gmail.com</p>
 
 ### About me

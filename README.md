@@ -3,6 +3,6 @@
 
 ### About me
 Hi there 👋
-I'm João Victor Rodrigues, full-stack developer, working over ReactJS and Node.js
+I'm João Victor Rodrigues, frontend developer, working over ReactJS and Node.js
 
 🌱 I’m currently learning Typescript.

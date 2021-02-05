@@ -3,7 +3,7 @@
 
 
 ### Hi there 👋
-I'm João Victor Rodrigues, frontend developer, working over ReactJS and Node.js
+I'm João Victor Rodrigues, full-stack developer, working over ReactJS and Node.js
 
 ### Techs
 ![cover](https://res.cloudinary.com/dqqrsraas/image/upload/v1611935541/next-js-seeklogo.com_1_seftse.png) NextJS

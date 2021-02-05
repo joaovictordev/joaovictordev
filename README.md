@@ -2,10 +2,10 @@
 <p align="center">:mailbox: joaovictorrdesouza0@gmail.com</p>
 
 
-## Hi there 👋
+## Hi 👋
 I'm João Victor Rodrigues, full-stack developer, working over ReactJS and Node.js
 
-## I have knowledge in
+## Knowledge in
 I have often used the following technologies
 
 ### <img src="https://res.cloudinary.com/dqqrsraas/image/upload/v1612490366/68747470733a2f2f692e6962622e636f2f3452484d6d4c512f72656163742e706e67_fdnkbq.png" width="22px"> Frontend
